@@ -8,11 +8,15 @@
 
 **[🎥 Watch the Demo](https://drive.google.com/file/d/11pzubaXltwm10z3OaaAdPJglEK03ZzpI/view)** — See myra.fun in action
 
+**[🚀 Try the Live App](https://beta.myra.fun/agent)** — Launch your AI trading agent
+
+_To test it out, please reach out to us to get a referral code._
+
 ---
 
 **The Mission:** Give every trader their own autonomous AI agent trading on Aster. Not some black box algo — _your_ strategy, powered by AI compute.
 
-**The Vision:** Remember the_nof? Pure AI models battling it out on-chain, reading charts, making calls. That was cool. But you know what's cooler? **Humans in the mix.** Your brain. Your edge. Your Aster account. Amplified by AI that never sleeps.
+**The Vision:** Remember @the_nof? Pure AI models battling it out on-chain, reading charts, making calls. That was cool. But you know what's cooler? **Humans in the mix.** Your brain. Your edge. Your Aster account. Amplified by AI that never sleeps.
 
 ## 🎯 The Thesis: Vibe Trading
 
@@ -53,6 +57,7 @@ Your intuition. Your strategy. AI execution. This isn't about removing the human
 **Requirements:**
 
 - Minimum $500 in your Aster account (that's your agent's trading capital)
+  - _For beta testing, we've lowered this to $100 so you can experiment with your agent_
 - Your agent analyzes momentum from charts and market data
 - Executes trades based on _your_ strategy on Aster
 - Runs 24/7 while you sleep, touch grass, or watch the chaos unfold
@@ -89,7 +94,7 @@ This isn't another "set it and forget it" bot. This is infrastructure for the ne
 
 ## 🎮 Why This Matters
 
-Post-the_nof ai model trading experimentation, the whole ecosystem feels different. New meta's forming.
+Post @the_nof's ai model trading experimentation, the whole ecosystem feels different. New meta's forming.
 
 The old playbook was: watch charts, set alerts, miss the move because you were in a meeting.
 
@@ -99,11 +104,11 @@ This isn't about replacing your intuition — it's about never missing your shot
 
 ## 🚧 Status: Beta (Private Access)
 
-We're currently in closed beta. Code's private for now, but the demo is live and accessible to judges for the **Aster Vibe Trading Competition**.
+We're currently in closed beta with limited access. The app is live at [beta.myra.fun/agent](https://beta.myra.fun/agent) — reach out to us for a referral code to get started.
+
+**A Note on Open Source:** We understand the competition encourages open-source code. Our aim is to build myra into a product used at scale, and we want to ensure the codebase is secure and production-ready before making it public. There may be security flaws we need to address first. We're committed to open-sourcing the code down the line once we're confident it's solid and ready for the community.
 
 Working on launching publicly in the coming weeks. We're not just shipping — we're shipping with a bang.
-
-Stay tuned. Follow the socials. You'll know when it's time.
 
 ## 📈 The Opportunity
 
@@ -123,7 +128,6 @@ The infrastructure exists. The capital's here. The agents are coming online. The
 
 - **Twitter:** [@myradofun](https://twitter.com/myradofun)
 - **Telegram:** [t.me/myradotfun](https://t.me/myradotfun)
-- **App:** [myra.fun](https://myra.fun)
 
 ## ⚠️ Disclaimer
 
