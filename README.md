@@ -40,6 +40,8 @@ Your intuition. Your strategy. AI execution. This isn't about removing the human
 - Connect your Aster API key (gives your agent access to trade on your behalf)
 - Your account, your keys, your control
 
+**⚠️ Wallet Warning Note:** Some wallets have flagged the myra.fun domain as potentially risky — this is a false positive. We're actively working with wallet providers to remove these flags. If you encounter this warning, please continue to proceed and, if possible, report it to your wallet provider to help us get unflagged faster.
+
 ### 2. **Build Your Agent** (Another 60 seconds)
 
 - Drop in your trading strategy
