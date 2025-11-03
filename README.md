@@ -126,7 +126,7 @@ The infrastructure exists. The capital's here. The agents are coming online. The
 
 ## 🤝 Community
 
-- **Twitter:** [@myradofun](https://twitter.com/myradofun)
+- **Twitter:** [@myradotfun](https://twitter.com/myradotfun)
 - **Telegram:** [t.me/myradotfun](https://t.me/myradotfun)
 
 ## ⚠️ Disclaimer
