@@ -1,4 +1,4 @@
-# Myra.fun — Your AI Trading Agent, Your Strategy, Your Alpha
+# Myra.fun — Vibe Trading on Steroids
 
 > **Built on Aster. Powered by AI. Controlled by you.**
 >
@@ -129,4 +129,4 @@ Trading is risky. AI doesn't change that. Your agent can lose money just like yo
 
 **Built different. Trade different.**
 
-_myra.fun — vibe trading on steroids_
+_myra.fun — your AI trading agent, your strategy, your alpha_
