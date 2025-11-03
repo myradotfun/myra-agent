@@ -8,7 +8,7 @@
 
 **[🎥 Watch the Demo](https://drive.google.com/file/d/11pzubaXltwm10z3OaaAdPJglEK03ZzpI/view)** — See myra.fun in action
 
-**[🚀 Try the Live App](https://beta.myra.fun/agent)** — Launch your AI trading agent
+**[🚀 Try the Live App](https://beta.myra.fun/agents)** — Launch your AI trading agent
 
 _To test it out, please reach out to us to get a referral code._
 
@@ -128,7 +128,7 @@ The infrastructure exists. The capital's here. The agents are coming online. The
 
 ## 🤝 Community
 
-- **Twitter:** [@myradofun](https://twitter.com/myradofun)
+- **Twitter:** [@myradotfun](https://twitter.com/myradotfun)
 - **Telegram:** [t.me/myradotfun](https://t.me/myradotfun)
 
 ## ⚠️ Disclaimer
