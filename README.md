@@ -4,6 +4,10 @@
 >
 > Seamless Aster integration. Your strategy. Your capital. Your autonomous trading agent executing 24/7.
 
+## 🎬 Demo
+
+**[🎥 Watch the Demo](https://drive.google.com/file/d/11pzubaXltwm10z3OaaAdPJglEK03ZzpI/view)** — See myra.fun in action
+
 ---
 
 **The Mission:** Give every trader their own autonomous AI agent trading on Aster. Not some black box algo — _your_ strategy, powered by AI compute.
